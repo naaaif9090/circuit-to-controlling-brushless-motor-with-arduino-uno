@@ -1,1 +1,1 @@
-# using-servo-motor-with-arduino-uno
+# using-brushless motor-with-arduino-uno
