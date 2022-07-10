@@ -1,4 +1,4 @@
-# using-brushless-motor-with-arduino-uno
+# circuit-to-controlling-brushless-motor-with-arduino-uno
 
 To control brushless motor we need a circuit to contorl its 3 phase wires while we get a sequence between them to start movement.we called this circuit electronic speed controller(ESC).
 
